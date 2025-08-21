@@ -1,0 +1,35 @@
+{
+  "navigation": {
+    "home": "ホーム",
+    "services": "サービス",
+    "about": "会社概要",
+    "contact": "お問い合わせ"
+  },
+  "services": {
+    "air_conditioner_cleaning": "エアコンクリーニング",
+    "plumbing_repair": "配管修理",
+    "electrical_repair": "電気修理",
+    "leak_detection": "漏水検査・修理",
+    "tile_painting": "タイル・塗装工事",
+    "quote_calculator": "見積もり計算機"
+  },
+  "hero": {
+    "title": "ホーチミン市のプロフェッショナル・ホームサービス",
+    "subtitle": "ご自宅の修理・メンテナンスのための高品質サービス",
+    "cta": "今すぐサービス予約"
+  },
+  "contact": {
+    "title": "お問い合わせ",
+    "phone": "電話",
+    "email": "メール",
+    "address": "住所",
+    "whatsapp": "WhatsApp",
+    "zalo": "Zalo"
+  },
+  "common": {
+    "learn_more": "詳細を見る",
+    "get_quote": "見積もり取得",
+    "book_now": "今すぐ予約",
+    "call_now": "今すぐ電話"
+  }
+}

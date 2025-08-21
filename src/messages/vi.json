@@ -1,0 +1,35 @@
+{
+  "navigation": {
+    "home": "Trang chủ",
+    "services": "Dịch vụ",
+    "about": "Giới thiệu", 
+    "contact": "Liên hệ"
+  },
+  "services": {
+    "air_conditioner_cleaning": "Vệ sinh điều hòa",
+    "plumbing_repair": "Sửa chữa đường ống nước",
+    "electrical_repair": "Sửa chữa điện",
+    "leak_detection": "Kiểm tra và sửa chữa rò rỉ",
+    "tile_painting": "Ốp lát gạch và sơn",
+    "quote_calculator": "Tính giá dịch vụ"
+  },
+  "hero": {
+    "title": "Dịch vụ sửa chữa nhà chuyên nghiệp tại TP.HCM",
+    "subtitle": "Dịch vụ sửa chữa và bảo trì chất lượng cao cho ngôi nhà của bạn",
+    "cta": "Đặt dịch vụ ngay"
+  },
+  "contact": {
+    "title": "Liên hệ",
+    "phone": "Điện thoại",
+    "email": "Email",
+    "address": "Địa chỉ",
+    "whatsapp": "WhatsApp",
+    "zalo": "Zalo"
+  },
+  "common": {
+    "learn_more": "Tìm hiểu thêm",
+    "get_quote": "Lấy báo giá",
+    "book_now": "Đặt ngay",
+    "call_now": "Gọi ngay"
+  }
+}

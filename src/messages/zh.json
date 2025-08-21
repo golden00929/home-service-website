@@ -1,0 +1,35 @@
+{
+  "navigation": {
+    "home": "首页",
+    "services": "服务",
+    "about": "关于我们",
+    "contact": "联系我们"
+  },
+  "services": {
+    "air_conditioner_cleaning": "空调清洁",
+    "plumbing_repair": "管道维修",
+    "electrical_repair": "电气维修",
+    "leak_detection": "漏水检测和维修",
+    "tile_painting": "瓷砖和油漆工程",
+    "quote_calculator": "报价计算器"
+  },
+  "hero": {
+    "title": "胡志明市专业家居服务",
+    "subtitle": "为您的家庭提供优质维修和保养服务",
+    "cta": "立即预约服务"
+  },
+  "contact": {
+    "title": "联系我们",
+    "phone": "电话",
+    "email": "邮箱",
+    "address": "地址",
+    "whatsapp": "WhatsApp",
+    "zalo": "Zalo"
+  },
+  "common": {
+    "learn_more": "了解更多",
+    "get_quote": "获取报价",
+    "book_now": "立即预订",
+    "call_now": "立即致电"
+  }
+}

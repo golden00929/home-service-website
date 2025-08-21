@@ -1,0 +1,35 @@
+{
+  "navigation": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "services": {
+    "air_conditioner_cleaning": "Air Conditioner Cleaning",
+    "plumbing_repair": "Plumbing Repair", 
+    "electrical_repair": "Electrical Repair",
+    "leak_detection": "Leak Detection & Repair",
+    "tile_painting": "Tile & Painting Work",
+    "quote_calculator": "Get Quote"
+  },
+  "hero": {
+    "title": "Professional Home Services in Ho Chi Minh City",
+    "subtitle": "Quality repair and maintenance services for your home",
+    "cta": "Book Service Now"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "phone": "Phone",
+    "email": "Email",
+    "address": "Address",
+    "whatsapp": "WhatsApp",
+    "zalo": "Zalo"
+  },
+  "common": {
+    "learn_more": "Learn More",
+    "get_quote": "Get Quote",
+    "book_now": "Book Now",
+    "call_now": "Call Now"
+  }
+}

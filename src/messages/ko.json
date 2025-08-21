@@ -1,0 +1,35 @@
+{
+  "navigation": {
+    "home": "홈",
+    "services": "서비스",
+    "about": "회사소개",
+    "contact": "연락처"
+  },
+  "services": {
+    "air_conditioner_cleaning": "에어컨 청소",
+    "plumbing_repair": "배관 수리",
+    "electrical_repair": "전기 수리",
+    "leak_detection": "누수 점검 및 수리",
+    "tile_painting": "타일 및 도장 공사",
+    "quote_calculator": "견적 계산기"
+  },
+  "hero": {
+    "title": "호치민시 전문 홈 서비스",
+    "subtitle": "집 수리 및 유지보수를 위한 고품질 서비스",
+    "cta": "지금 서비스 예약"
+  },
+  "contact": {
+    "title": "연락처",
+    "phone": "전화",
+    "email": "이메일",
+    "address": "주소",
+    "whatsapp": "왓츠앱",
+    "zalo": "잘로"
+  },
+  "common": {
+    "learn_more": "자세히 보기",
+    "get_quote": "견적 받기",
+    "book_now": "지금 예약",
+    "call_now": "지금 전화"
+  }
+}
