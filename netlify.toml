@@ -6,8 +6,33 @@
   NODE_VERSION = "18"
 
 [[redirects]]
-  from = "/*"
-  to = "/index.html"
+  from = "/"
+  to = "/vi/"
+  status = 302
+
+[[redirects]]
+  from = "/ko/*"
+  to = "/ko/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/vi/*" 
+  to = "/vi/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/en/*"
+  to = "/en/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/zh/*"
+  to = "/zh/:splat"  
+  status = 200
+
+[[redirects]]
+  from = "/ja/*"
+  to = "/ja/:splat"
   status = 200
 
 [build.processing]
