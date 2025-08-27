@@ -100,7 +100,6 @@ export default function GoogleMyBusinessWidget() {
   useEffect(() => {
     const checkBusinessHours = () => {
       const now = new Date();
-      const currentDay = now.toLocaleLowerCase().slice(0, 3);
       const days = ['sun', 'mon', 'tue', 'wed', 'thu', 'fri', 'sat'];
       const dayName = ['sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday'][now.getDay()];
       

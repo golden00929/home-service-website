@@ -6,12 +6,12 @@
     "contact": "연락처"
   },
   "services": {
-    "air_conditioner_cleaning": "에어컨 청소",
-    "plumbing_repair": "배관 수리",
-    "electrical_repair": "전기 수리",
-    "leak_detection": "누수 점검 및 수리",
-    "tile_painting": "타일 및 도장 공사",
-    "quote_calculator": "견적 계산기"
+    "air_conditioner_cleaning": "에어컨 청소/보수",
+    "plumbing_repair": "수도배관 보수",
+    "electrical_repair": "전기보수",
+    "leak_detection": "누수점검/보수",
+    "tile_painting": "타일/도색 보수",
+    "quote_calculator": "전문 보수 서비스 견적"
   },
   "hero": {
     "title": "호치민시 전문 홈 서비스",
