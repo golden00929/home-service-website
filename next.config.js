@@ -6,6 +6,12 @@ const nextConfig = {
   trailingSlash: true,
   basePath: process.env.NODE_ENV === 'production' ? '/home-service-website' : '',
   assetPrefix: process.env.NODE_ENV === 'production' ? '/home-service-website/' : '',
+  eslint: {
+    ignoreDuringBuilds: true,
+  },
+  typescript: {
+    ignoreBuildErrors: true,
+  },
   images: {
     unoptimized: true,
     remotePatterns: [

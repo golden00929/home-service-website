@@ -1,5 +1,3 @@
-'use client';
-
 import { use, useState } from 'react';
 import Link from 'next/link';
 import Head from 'next/head';
@@ -7,6 +5,14 @@ import ScrollAnimations from '../../components/ui/ScrollAnimations';
 
 interface PageProps {
   params: Promise<{ locale: string }>;
+}
+
+// Generate static params for all supported locales
+export async function generateStaticParams() {
+  const locales = ['ko', 'vi', 'en', 'zh', 'ja'];
+  return locales.map((locale) => ({
+    locale: locale,
+  }));
 }
 
 const getContent = (locale: string) => {
