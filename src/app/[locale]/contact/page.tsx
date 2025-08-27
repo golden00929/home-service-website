@@ -8,6 +8,14 @@ interface ContactPageProps {
   }>;
 }
 
+// Generate static params for all supported locales
+export async function generateStaticParams() {
+  const locales = ['ko', 'vi', 'en', 'zh', 'ja'];
+  return locales.map((locale) => ({
+    locale: locale,
+  }));
+}
+
 export default function ContactPage({ params }: ContactPageProps) {
   const { locale } = use(params);
 
