@@ -4,6 +4,8 @@ const withNextIntl = require('next-intl/plugin')('./src/i18n.ts');
 const nextConfig = {
   output: 'export',
   trailingSlash: true,
+  basePath: process.env.NODE_ENV === 'production' ? '/home-service-website' : '',
+  assetPrefix: process.env.NODE_ENV === 'production' ? '/home-service-website/' : '',
   images: {
     unoptimized: true,
     remotePatterns: [
